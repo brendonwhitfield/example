@@ -1,13 +1,13 @@
-# My Second Page
+#My Second Page
 
 ## Table of Contents
-*[Personal info](#Personal-Info)  
-	*[Facts About Me](#Facts-About-Me)    
+*[Personal info](#Personal-Info)
+	*[Facts About Me](#Facts-About-Me)
 	*[Hobbies](#Hobbies)
-		*[Football](#Football)  
-  
-		*[Music](#Music)  
-	*[My Home](#My-Home)  
+		*[Football](#Football)
+		*[Music](#Music)
+	*[My Home](#My-Home)
+*[Learning Log](#Learning-log)
 ## Personal Info
 ### Facts about me 
 Name: Brendon Whitfield  
@@ -28,4 +28,5 @@ Beginning young, I was taught piano and singing and still play to this day. I al
   
 ![musical instruments](https://tse1.mm.bing.net/th?id=OIP.00CdTJHGRYg_sRJvjcndngAAAA&pid=Api&P=0&w=642&h=459)
 ### My Home
-I live in North wales
+I live in North wales  
+## Learning Log
