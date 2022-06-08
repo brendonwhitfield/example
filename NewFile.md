@@ -24,4 +24,3 @@ Beginning young, I was taught piano and singing and still play to this day. I al
   
 ![musical instruments](https://tse1.mm.bing.net/th?id=OIP.00CdTJHGRYg_sRJvjcndngAAAA&pid=Api&P=0&w=642&h=459)
 ## My Home
-this text is not supposed to be here
