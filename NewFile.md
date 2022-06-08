@@ -1,12 +1,17 @@
 #My Second Page
 
 ## Table of Contents
-*[Personal info](#Personal-Info)
-	*[Facts About Me](#Facts-About-Me)
-	*[Hobbies](#Hobbies)
-		*[Football](#Football)
-		*[Music](#Music)
-	*[My Home](#My-Home)
+ *[Personal info](#Personal-Info)  
+	*[Facts About Me](#Facts-About-Me)  
+  
+	*[Hobbies](#Hobbies)  
+  
+		*[Football](#Football)  
+  
+		*[Music](#Music)  
+  
+	*[My Home](#My-Home)  
+  
 *[Learning Log](#Learning-log)
 ## Personal Info
 ### Facts about me 
